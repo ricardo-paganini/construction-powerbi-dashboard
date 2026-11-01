@@ -1,0 +1,9 @@
+development_id,development_name,city,standard,launch_date,total_units,expected_delivery,budget
+D01,Residencial Jardim das Flores,Campinas,Econômico,2022-03-01,180,2025-03-01,24112000.0
+D02,Edifício Mirante,Campinas,Alto,2022-08-01,43,2025-08-01,23352000.0
+D03,Residencial Parque Verde,Sorocaba,Econômico,2023-01-01,141,2026-01-01,18893000.0
+D04,Edifício Solar do Vale,São José dos Campos,Médio,2023-05-01,97,2025-11-01,24231000.0
+D05,Residencial Bela Vista,Sorocaba,Médio,2023-09-01,95,2026-09-01,23232000.0
+D06,Edifício Horizonte,São José dos Campos,Econômico,2024-01-01,154,2026-10-01,20435000.0
+D07,Residencial Recanto,Campinas,Médio,2024-04-01,88,2026-10-01,21660000.0
+D08,Edifício Alto da Serra,Sorocaba,Alto,2024-09-01,43,2027-03-01,23892000.0
