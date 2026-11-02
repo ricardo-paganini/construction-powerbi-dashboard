@@ -1,10 +1,23 @@
 {
-  "name": "Vertice Urbano",
-  "dataColors": ["#a8d0f0", "#FF6B6B", "#5b9bd5", "#FFB3B3", "#7fb8a4", "#c9c9c9"],
+  "name": "Vertice Urbano - Grafite e Areia",
+  "dataColors": ["#354F52", "#84A98C", "#CAD2C5", "#FF6B6B", "#52796F", "#B08968"],
   "background": "#FFFFFF",
-  "foreground": "#333333",
-  "tableAccent": "#a8d0f0",
-  "good": "#a8d0f0",
-  "neutral": "#c9c9c9",
-  "bad": "#FF6B6B"
+  "foreground": "#2F3E46",
+  "tableAccent": "#354F52",
+  "good": "#84A98C",
+  "neutral": "#CAD2C5",
+  "bad": "#FF6B6B",
+  "visualStyles": {
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#F2EFEA" } }, "transparency": 0 }]
+      }
+    },
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "title": [{ "fontColor": { "solid": { "color": "#2F3E46" } } }]
+      }
+    }
+  }
 }
