@@ -1,0 +1,10 @@
+{
+  "name": "Vertice Urbano",
+  "dataColors": ["#a8d0f0", "#FF6B6B", "#5b9bd5", "#FFB3B3", "#7fb8a4", "#c9c9c9"],
+  "background": "#FFFFFF",
+  "foreground": "#333333",
+  "tableAccent": "#a8d0f0",
+  "good": "#a8d0f0",
+  "neutral": "#c9c9c9",
+  "bad": "#FF6B6B"
+}
